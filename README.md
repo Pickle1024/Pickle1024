@@ -8,10 +8,10 @@ I'm exploring how AI transforms product development and sharing what I learn alo
 
 ## 🚀 What I Do
 
-- 🔨 **Build AI-powered tools** that solve real problems
-- 📊 **Analyze & visualize data** to drive product decisions  
-- ✍️ **Create content** about AI, product thinking, and building in public
-- ⚡ **Ship fast** using AI-assisted development and rapid prototyping
+- **Build AI-powered tools** that solve real problems
+- **Analyze & visualize data** to drive product decisions  
+- **Create content** about AI, product thinking, and building in public
+- **Ship fast** using AI-assisted development and rapid prototyping
 
 ---
 
@@ -39,7 +39,7 @@ I'm exploring how AI transforms product development and sharing what I learn alo
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Projects
 
 ### [ThinkLoud AI - Google AI Studio]()
 > [One-line description of what problem it solves]
@@ -64,20 +64,20 @@ I'm exploring how AI transforms product development and sharing what I learn alo
 
 Beyond coding, I bring product thinking to everything I build:
 
-- 📊 **Product Analytics & Data-Driven Decision Making** - Turning data into actionable insights
-- 🎯 **User Research & Customer Discovery** - Understanding what users actually need
-- 📝 **Product Roadmapping & Strategy** - Prioritizing what to build and why
-- 🎨 **Rapid Prototyping** - From wireframe to working prototype in hours
-- 📢 **Product Storytelling** - Communicating value through content and demos
-- ⚡ **AI-Native Development** - Leveraging LLMs for 10x faster iteration
+- **Product Analytics & Data-Driven Decision Making** - Turning data into actionable insights
+- **User Research & Customer Discovery** - Understanding what users actually need
+- **Product Roadmapping & Strategy** - Prioritizing what to build and why
+- **Rapid Prototyping** - From wireframe to working prototype in hours
+- **Product Storytelling** - Communicating value through content and demos
+- **AI-Native Development** - Leveraging LLMs for 10x faster iteration
 
 ---
 
-## 🚧 Current Focus
+##  🎯 Current Focus
 
-- 🧠 **Learning:** How to leverage AI for rapid product development
-- 🔨 **Building:** AI-native tools and workflows that solve real problems
-- 📚 **Exploring:** The intersection of product management, data analytics, and AI
+- **Learning:** How to leverage AI for rapid product development
+- **Building:** AI-native tools and workflows that solve real problems
+- **Exploring:** The intersection of product management, data analytics, and AI
 
 > "In the age of AI, the bottleneck isn't coding—it's clarity of thought and speed of iteration."
 
@@ -95,7 +95,7 @@ I believe the best way to learn is by building. Every project here represents an
 
 <div align="center">
 
-### ⭐ If you find my work interesting, feel free to follow along!
+### If you find my work interesting, feel free to follow along!
 
 *Building in public, one project at a time.*
 
