@@ -1,102 +1,45 @@
 # 👋 Hi, I'm Lizhong(Zoe) Wang
 
-**Product Builder | AI Learner | Turning Ideas into Reality**
+Building AI-native products that turn messy information into structured insight.
 
-I'm exploring how AI transforms product development and sharing what I learn along the way. I believe in building in public, rapid iteration, and leveraging AI to move from idea to execution faster than ever.
+## What I'm Building
 
----
+**[Content Creation Agent](https://github.com/AgentMind-Studio/content-agent)** — Research-backed video script pipeline
+Web search → fact extraction → cross-domain analysis → script generation. Turns 40+ articles into a 10-min YouTube script with cited sources in 4 minutes.
 
-## 🚀 What I Do
+**AI Infrastructure Research Agent** — RAG system for market intelligence
+Ask questions like "What's the capex trend for AI data centers?" and get answers with auto-generated visualizations from earnings calls, reports, and market analysis. Tracks the AI infrastructure stack from chips to power.
 
-- **Build AI-powered tools** that solve real problems
-- **Analyze & visualize data** to drive product decisions  
-- **Create content** about AI, product thinking, and building in public
-- **Ship fast** using AI-assisted development and rapid prototyping
+**[Build Skills Not Agent](https://github.com/Pickle1024/Build-Skills-Not-Agent)** — Interactive visualization
+Explains Anthropic's architecture philosophy through examples and comparisons. Clarifies the paradigm shift from coordinating multiple AIs to enhancing one AI.
 
----
+**[Anthology-AI](https://github.com/Pickle1024/Anthology-AI)** — Time-aware news mapping
+Tracks how topics evolve across years by mapping scattered news into structured timelines.
 
-## 🛠️ Tech Stack
+**[InsightFlow-AI](https://github.com/Pickle1024/InsightFlow-AI)** — Conversation insight extraction
+Pulls structured insights from AI chat sessions for social media content.
 
-**Data & Analytics**
+**[Yapyap-AI](https://github.com/Pickle1024/Yapyap-AI)** — Voice conversation practice
+Gamified sandbox for practicing conversation skills with AI voice feedback.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+## Content Creator
 
-**AI & Development**
+Former education content creator on Xiaohongshu (小红书). Now preparing to launch AI infrastructure content on YouTube—breaking down complex technical topics (chips, data centers, energy, market dynamics) into data-backed, accessible analysis.
 
-![Claude](https://img.shields.io/badge/-Claude-181818?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white)
-![Google AI](https://img.shields.io/badge/-Google%20AI%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+The [Content Creation Agent](https://github.com/AgentMind-Studio/content-agent) above is built to support this: research → script → quality evaluation, all with human review at every step.
 
-**Product & Design**
+## Philosophy
 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Miro](https://img.shields.io/badge/-Miro-050038?style=flat-square&logo=miro&logoColor=white)
+> In the age of AI, the bottleneck isn't coding—it's clarity of thought and speed of iteration.
 
----
+I believe we're in the early stages of a fundamental shift in how intelligence works. Instead of predicting what happens next, I'm building things that help me understand it better—tools for content creation, research, and analysis at both the application and infrastructure layers.
 
-## 🌟 Projects
+Every project starts with identifying where human judgment adds value, then uses AI to handle everything else.
 
-### [ThinkLoud AI - Google AI Studio]()
-> [One-line description of what problem it solves]
+## Tech Stack
 
-**Video Demo:** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**What it does:**
-- [Key feature or capability 1]
-- [Key feature or capability 2]
-- [Key impact or result]
+## Connect
 
-**Tech:** Google AI Studio
-
-### [Skills vs Agents: Interactive Guide](https://Pickle1024.github.io/skills-vs-agents/)
-> A website explaining why Anthropic says "Build Skills, Not Agents" — and why it matters more than you think.
-
-**Tech:** HTML • Claude
-
----
-
-## 💡 Product Skills
-
-Beyond coding, I bring product thinking to everything I build:
-
-- **Product Analytics & Data-Driven Decision Making** - Turning data into actionable insights
-- **User Research & Customer Discovery** - Understanding what users actually need
-- **Product Roadmapping & Strategy** - Prioritizing what to build and why
-- **Rapid Prototyping** - From wireframe to working prototype in hours
-- **Product Storytelling** - Communicating value through content and demos
-- **AI-Native Development** - Leveraging LLMs for 10x faster iteration
-
----
-
-##  🎯 Current Focus
-
-- **Learning:** How to leverage AI for rapid product development
-- **Building:** AI-native tools and workflows that solve real problems
-- **Exploring:** The intersection of product management, data analytics, and AI
-
-> "In the age of AI, the bottleneck isn't coding—it's clarity of thought and speed of iteration."
-
-I believe the best way to learn is by building. Every project here represents an experiment, a learning moment, or a problem I wanted to solve.
-
----
-
-## 📫 Let's Connect
-
-- 💼 **LinkedIn:** [linkedin.com/in/lizhongwang](https://www.linkedin.com/in/lizhongwang)
-- 💬 **Open to:** Product collaborations, AI discussions, and interesting problems to solve
-- 🤝 **Always happy to:** Share what I've learned, give feedback, or brainstorm ideas
-
----
-
-<div align="center">
-
-### If you find my work interesting, feel free to follow along!
-
-*Building in public, one project at a time.*
-
-</div>
+[LinkedIn](https://linkedin.com/in/lizhongwang) • Santa Clara, CA
