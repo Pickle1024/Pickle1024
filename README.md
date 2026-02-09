@@ -10,9 +10,6 @@ Web search → fact extraction → cross-domain analysis → script generation. 
 **AI Infrastructure Research Agent** — RAG system for market intelligence
 Ask questions like "What's the capex trend for AI data centers?" and get answers with auto-generated visualizations from earnings calls, reports, and market analysis. Tracks the AI infrastructure stack from chips to power.
 
-**[Build Skills Not Agent](https://github.com/Pickle1024/Build-Skills-Not-Agent)** — Interactive visualization
-Explains Anthropic's architecture philosophy through examples and comparisons. Clarifies the paradigm shift from coordinating multiple AIs to enhancing one AI.
-
 **[Anthology-AI](https://github.com/Pickle1024/Anthology-AI)** — Time-aware news mapping
 Tracks how topics evolve across years by mapping scattered news into structured timelines.
 
