@@ -4,7 +4,7 @@ Building AI-native products that turn messy information into structured insight.
 
 ## What I'm Building
 
-**[Content Creation Agent](https://github.com/AgentMind-Studio/content-agent)** — Research-backed video script pipeline
+**[Content Creation Agent](https://github.com/AgentMind-Studio/content-creation-agent)** — Research-backed video script pipeline
 Web search → fact extraction → cross-domain analysis → script generation. Turns 40+ articles into a 10-min YouTube script with cited sources in 4 minutes.
 
 **AI Infrastructure Research Agent** — RAG system for market intelligence
