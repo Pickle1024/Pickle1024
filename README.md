@@ -7,7 +7,7 @@ Building AI-native products that turn messy information into structured insight.
 **[Content Creation Agent](https://github.com/AgentMind-Studio/content-creation-agent)** — Research-backed video script pipeline
 Web search → fact extraction → cross-domain analysis → script generation. Turns 40+ articles into a 10-min YouTube script with cited sources in 4 minutes.
 
-**AI Infrastructure Research Agent** — RAG system for market intelligence
+**[AI Infrastructure Research Agent](https://github.com/Pickle1024/ai-infrastructure-research-agent)** — RAG system for market intelligence
 Ask questions like "What's the capex trend for AI data centers?" and get answers with auto-generated visualizations from earnings calls, reports, and market analysis. Tracks the AI infrastructure stack from chips to power.
 
 **[Anthology-AI](https://github.com/Pickle1024/Anthology-AI)** — Time-aware news mapping
