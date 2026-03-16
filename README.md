@@ -21,9 +21,9 @@ Gamified sandbox for practicing conversation skills with AI voice feedback.
 
 ## Content Creator
 
-Former education content creator on Xiaohongshu (小红书). Now preparing to launch AI infrastructure content on YouTube—breaking down complex technical topics (chips, data centers, energy, market dynamics) into data-backed, accessible analysis.
+Former education content creator on Xiaohongshu (小红书). Now creating AI infrastructure content on YouTube: **[@PickLens](https://www.youtube.com/@picklens1024)** — breaking down complex technical topics (chips, data centers, energy, market dynamics) into data-backed, accessible analysis.
 
-The [Content Creation Agent](https://github.com/AgentMind-Studio/content-agent) above is built to support this: research → script → quality evaluation, all with human review at every step.
+The **[Content Creation Agent](https://github.com/AgentMind-Studio/content-agent)** above is built to support this: research → script → quality evaluation, all with human review at every step.
 
 ## Philosophy
 
