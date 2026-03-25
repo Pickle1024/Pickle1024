@@ -1,14 +1,17 @@
-# 👋 Hi, I'm Lizhong(Zoe) Wang
+# Lizhong Wang
 
 Building AI-native products that turn messy information into structured insight.
 
 ## What I'm Building
 
-**[Content Creation Agent](https://github.com/AgentMind-Studio/content-creation-agent)** — Research-backed video script pipeline
+**[Content Creation Agent](https://github.com/AgentMind-Studio/content-agent)** — Research-backed video script pipeline
 Web search → fact extraction → cross-domain analysis → script generation. Turns 40+ articles into a 10-min YouTube script with cited sources in 4 minutes.
 
-**[AI Infrastructure Research Agent](https://github.com/Pickle1024/ai-infrastructure-research-agent)** — RAG system for market intelligence
+**AI Infrastructure Research Agent** — RAG system for market intelligence
 Ask questions like "What's the capex trend for AI data centers?" and get answers with auto-generated visualizations from earnings calls, reports, and market analysis. Tracks the AI infrastructure stack from chips to power.
+
+**[Build Skills Not Agent](https://github.com/Pickle1024/Build-Skills-Not-Agent)** — Interactive visualization
+Explains Anthropic's architecture philosophy through examples and comparisons. Clarifies the paradigm shift from coordinating multiple AIs to enhancing one AI.
 
 **[Anthology-AI](https://github.com/Pickle1024/Anthology-AI)** — Time-aware news mapping
 Tracks how topics evolve across years by mapping scattered news into structured timelines.
@@ -19,11 +22,15 @@ Pulls structured insights from AI chat sessions for social media content.
 **[Yapyap-AI](https://github.com/Pickle1024/Yapyap-AI)** — Voice conversation practice
 Gamified sandbox for practicing conversation skills with AI voice feedback.
 
-## Content Creator
+## Content — [PickLens on YouTube](https://www.youtube.com/@picklens1024)
 
-Former education content creator on Xiaohongshu (小红书). Now creating AI infrastructure content on YouTube: **[@PickLens](https://www.youtube.com/@picklens1024)** — breaking down complex technical topics (chips, data centers, energy, market dynamics) into data-backed, accessible analysis.
+I make data-backed analysis videos on AI infrastructure — chips, data centers, energy, and market dynamics.
 
-The **[Content Creation Agent](https://github.com/AgentMind-Studio/content-agent)** above is built to support this: research → script → quality evaluation, all with human review at every step.
+**Latest**:
+- [Understand Jensen Huang's GTC Keynote = Understand the Future of AI](https://www.youtube.com/watch?v=96F331XdZ18) — Breaks down the 2026 GTC keynote: Vera Rubin, Kyber architecture, OpenClaw, and what it signals about where NVIDIA is heading
+- [The 3 Biggest Bottlenecks for AI | Why AGI Is Further Than You Think](https://www.youtube.com/watch?v=g462la-Glu8) — Power, cooling, and chip supply constraints that determine the actual pace of AI scaling
+
+The [Content Creation Agent](https://github.com/AgentMind-Studio/content-agent) above is built to support this workflow: web research → fact extraction → script generation, all with human review at every step.
 
 ## Philosophy
 
