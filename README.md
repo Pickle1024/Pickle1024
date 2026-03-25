@@ -22,6 +22,12 @@ Pulls structured insights from AI chat sessions for social media content.
 **[Yapyap-AI](https://github.com/Pickle1024/Yapyap-AI)** — Voice conversation practice
 Gamified sandbox for practicing conversation skills with AI voice feedback.
 
+**[Nazava Shopee Sales Optimization](https://github.com/Pickle1024/Nazava-Shopee-Sales-Optimization)** — E-commerce revenue strategy
+Analyzed 16 months of Shopee sales data for a water filter company. Identified that 73% of revenue comes from just 2 SKUs, built a promotion timing model that projected 35% revenue increase, and designed a bundle pricing strategy from cross-sell patterns.
+
+**[InVehicle Coupon Strategy](https://github.com/Pickle1024/InVehicle-Coupon-Strategy)** — Coupon targeting with ML
+Built an XGBoost model (AUC 0.832) on 12,684 driving scenarios to predict coupon acceptance. Segmented drivers into 5 behavioral personas — targeting the right ones cuts coupon waste by 41% while maintaining 89% reach of likely acceptors.
+
 ## Content — [PickLens on YouTube](https://www.youtube.com/@picklens1024)
 
 I make data-backed analysis videos on AI infrastructure — chips, data centers, energy, and market dynamics.
