@@ -7,7 +7,7 @@ Building AI-native products that turn messy information into structured insight.
 **[Content Creation Agent](https://github.com/AgentMind-Studio/content-agent)** — Research-backed video script pipeline
 Web search → fact extraction → cross-domain analysis → script generation. Turns 40+ articles into a 10-min YouTube script with cited sources in 4 minutes.
 
-**AI Infrastructure Research Agent** — RAG system for market intelligence
+**[AI Infrastructure Research](https://github.com/Pickle1024/ai-infrastructure-research)** — RAG system for market intelligence
 Ask questions like "What's the capex trend for AI data centers?" and get answers with auto-generated visualizations from earnings calls, reports, and market analysis. Tracks the AI infrastructure stack from chips to power.
 
 **[Build Skills Not Agent](https://github.com/Pickle1024/Build-Skills-Not-Agent)** — Interactive visualization
@@ -27,8 +27,8 @@ Gamified sandbox for practicing conversation skills with AI voice feedback.
 I make data-backed analysis videos on AI infrastructure — chips, data centers, energy, and market dynamics.
 
 **Latest**:
-- [Understand Jensen Huang's GTC Keynote = Understand the Future of AI](https://www.youtube.com/watch?v=96F331XdZ18) — Breaks down the 2026 GTC keynote: Vera Rubin, Kyber architecture, OpenClaw, and what it signals about where NVIDIA is heading
-- [The 3 Biggest Bottlenecks for AI | Why AGI Is Further Than You Think](https://www.youtube.com/watch?v=g462la-Glu8) — Power, cooling, and chip supply constraints that determine the actual pace of AI scaling
+- [Understand Jensen Huang's GTC Keynote = Understand the Future of AI](https://www.youtube.com/watch?v=96F331XdZ18) — Breaks down the 2026 GTC keynote: Vera Rubin, Kyber architecture, OpenClaw, and what it signals about where NVIDIA is heading | [Read the article](https://github.com/Pickle1024/ai-infrastructure-research/blob/main/articles/02-jensen-huang-gtc-2026-breakdown.md)
+- [The 3 Biggest Bottlenecks for AI | Why AGI Is Further Than You Think](https://www.youtube.com/watch?v=g462la-Glu8) — Power, cooling, and chip supply constraints that determine the actual pace of AI scaling | [Read the article](https://github.com/Pickle1024/ai-infrastructure-research/blob/main/articles/01-ai-infrastructure-bottlenecks.md)
 
 The [Content Creation Agent](https://github.com/AgentMind-Studio/content-agent) above is built to support this workflow: web research → fact extraction → script generation, all with human review at every step.
 
