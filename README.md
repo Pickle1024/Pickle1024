@@ -10,6 +10,8 @@ Web search → fact extraction → cross-domain analysis → script generation. 
 **[AI Infrastructure Research](https://github.com/Pickle1024/ai-infrastructure-research)** — RAG system for market intelligence
 Ask questions like "What's the capex trend for AI data centers?" and get answers with auto-generated visualizations from earnings calls, reports, and market analysis. Tracks the AI infrastructure stack from chips to power.
 
+**[Postmates LA Retention Analysis — User retention & frequency strategy](https://github.com/Pickle1024/uber-postmates-retention-analysis)** - Analyzed retention patterns across user segments, merchant mix, delivery experience, and promo dependency for Postmates' LA market. Found that local and trend-driven merchants drive 90–96% repeat user share vs. 85–88% for generic merchants; modeled a one-time user conversion opportunity worth ~$4K incremental GMV and built a strategic playbook for the LA market.
+
 **[Nazava Shopee Sales Optimization](https://github.com/Pickle1024/Nazava-Shopee-Sales-Optimization)** — E-commerce revenue strategy
 Analyzed 16 months of Shopee sales data for a water filter company. Identified that 73% of revenue comes from just 2 SKUs, built a promotion timing model that projected 35% revenue increase, and designed a bundle pricing strategy from cross-sell patterns.
 
