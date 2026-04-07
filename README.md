@@ -6,7 +6,7 @@ Building AI-native products that turn messy information into structured insight.
 
 **[AI Infrastructure Supply Chain Dashboard](https://github.com/Pickle1024/ai-infrastructure-supply-chain)** — Semiconductor / AI infrastructure risk monitoring Built a Streamlit dashboard to track structural supply-chain bottlenecks across memory, packaging, test, and country concentration using public semiconductor market-share data. Added a priority scoring framework, global footprint map, risk watchlist, and weekly narrative layer to surface which upstream constraints matter most for AI deployment planning.
 
-**[Content Creation Agent](https://github.com/AgentMind-Studio/content-agent)** — Research-backed video script pipeline
+**[Content Creation Agent](https://github.com/AgentMind-Studio/content-creation-agent)** — Research-backed video script pipeline
 Web search → fact extraction → cross-domain analysis → script generation. Turns 40+ articles into a 10-min YouTube script with cited sources in 4 minutes.
 
 **[AI Infrastructure Research](https://github.com/Pickle1024/ai-infrastructure-research)** — RAG system for market intelligence
