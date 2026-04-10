@@ -6,11 +6,12 @@ Building AI-native products that turn messy information into structured insight.
 
 **[AI Infrastructure Supply Chain Dashboard](https://github.com/Pickle1024/ai-infrastructure-supply-chain)** — Built a Streamlit dashboard to track structural supply-chain bottlenecks across memory, packaging, test, and country concentration using public semiconductor market-share data. Added a priority scoring framework, global footprint map, risk watchlist, and weekly narrative layer to surface which upstream constraints matter most for AI deployment planning.
 
+
+
 **[Content Creation Agent](https://github.com/AgentMind-Studio/content-creation-agent)** — Research-backed video script pipeline
 Web search → fact extraction → cross-domain analysis → script generation. Turns 40+ articles into a 10-min YouTube script with cited sources in 4 minutes.
 
-**[AI Infrastructure Research](https://github.com/Pickle1024/ai-infrastructure-research)** — RAG system for market intelligence
-Ask questions like "What's the capex trend for AI data centers?" and get answers with auto-generated visualizations from earnings calls, reports, and market analysis. Tracks the AI infrastructure stack from chips to power.
+**[AI Infrastructure Research Portfolio](https://pickle1024.github.io/ai-infrastructure-html-portfolio/portfolio/ai-infrastructure-portfolio.html)** — Curated HTML portfolio of my AI infrastructure research and visual storytelling work.
 
 **[Postmates LA Retention Analysis — User retention & frequency strategy](https://github.com/Pickle1024/uber-postmates-retention-analysis)** - Analyzed retention patterns across user segments, merchant mix, delivery experience, and promo dependency for Postmates' LA market. Found that local and trend-driven merchants drive 90–96% repeat user share vs. 85–88% for generic merchants; modeled a one-time user conversion opportunity worth ~$4K incremental GMV and built a strategic playbook for the LA market.
 
