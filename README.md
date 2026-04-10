@@ -25,9 +25,6 @@ Gamified sandbox for practicing conversation skills with AI voice feedback.
 **[Anthology-AI](https://github.com/Pickle1024/Anthology-AI)** — Time-aware news mapping
 Tracks how topics evolve across years by mapping scattered news into structured timelines.
 
-**[InsightFlow-AI](https://github.com/Pickle1024/InsightFlow-AI)** — Conversation insight extraction
-Pulls structured insights from AI chat sessions for social media content.
-
 ## Content — [PickLens on YouTube](https://www.youtube.com/@picklens1024)
 
 I make data-backed analysis videos on AI infrastructure — chips, data centers, energy, and market dynamics.
